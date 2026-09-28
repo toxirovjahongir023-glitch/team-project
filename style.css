@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+ a {
+    
+    color: white;
+} 
+
+ul {
+    list-style: none;
+}
+
+.d {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: darkolivegreen;
+}
+
+.blog {
+    margin-top: 20px;
+    display: flex;
+    gap: 40px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 60px;
+}
+
+.d1 {
+    display: flex;
+
+}
+
+#section {
+    padding: 20px;
+}
+
+.card1 h1 {
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+
+.card1 p {
+    margin-top: 20px;
+    line-height: 23px;
+    letter-spacing: 1px;
+}
+
+.img1{
+    width: 800px;
+    height: 600px;
+}
+
+.card1 img {
+    margin-top: 45px;
+}
+
+.cards {
+    display: flex;
+    margin-left: 80px;
+    align-items: center;
+    gap: 110px ;
+}
+
+.cardss {
+     display: flex;
+    margin-left: 80px;
+    align-items: center;
+    gap: 120px ;
+    margin-top: 80px;
+}
+
+.cardsss {
+     display: flex;
+    margin-left: 170px;
+    align-items: center;
+    gap: 190px ;
+    margin-top: 80px;
+    margin-right: 90px;
+}
